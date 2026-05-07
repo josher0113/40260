@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE direccion SYSTEM ""> 
+<direccion> 
+    <nombreCompleto>
+        <nombre> Manuel </nombre>
+        <apellidos> Hernandez Pacheco <apellidos/>
+    </nombreCompleto>
+    <correo>
+        herpach05@gmail.com
+    </correo>
+    <telefono> 2731098847 </telefono>
+    <cumple>
+        <dia> 13 </dia>
+        <mes> 01 </mes>
+        <anio> 2005 </anio>
+    </cumple>
+</direccion>
